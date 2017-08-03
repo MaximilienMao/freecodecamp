@@ -1,6 +1,6 @@
 # freecodecamp
 ### Index of my work with  Fee Code Camp (WIP)
 
-* _Tribute Page_ : https://codepen.io/cafezen/full/YNoZEY/
-* _Portfolio_ : https://codepen.io/cafezen/full/wqvOGa/
-* _Quotes Machine_ : https://codepen.io/cafezen/full/qXZQBE/
+* __Tribute Page__ : https://codepen.io/cafezen/full/YNoZEY/
+* __Portfolio__ : https://codepen.io/cafezen/full/wqvOGa/
+* __Quotes Machine__ : https://codepen.io/cafezen/full/qXZQBE/
