@@ -1,5 +1,5 @@
 # freecodecamp
-### Index of my works with  Fee Code Camp (WIP)
+### Index of my works for  Free Code Camp (WIP)
 
 * __Tribute Page__ : https://codepen.io/cafezen/full/YNoZEY/
 * __Portfolio__ : https://codepen.io/cafezen/full/wqvOGa/
